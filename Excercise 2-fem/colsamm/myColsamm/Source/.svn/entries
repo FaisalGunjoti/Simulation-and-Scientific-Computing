@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="60"
+   name=""
+   committed-date="2007-02-08T09:28:42.468003Z"
+   url="svn+ssh://jochen@131.188.67.19/proj/Project_Homes/ExPDE/Colsamm/Source"
+   last-author="jochen"
+   kind="dir"
+   uuid="ce837dc8-1d22-0410-83d8-ab98f9fecdcb"
+   repos="svn+ssh://jochen@131.188.67.19/proj/Project_Homes/ExPDE"
+   revision="61"/>
+<entry
+   committed-rev="43"
+   name="Stencil_ET.h"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:01:49.640522Z"
+   checksum="4b3dae67a9fee2d926ab529eb194bf73"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="43"
+   name="BasisFunctions.h"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:01:49.640522Z"
+   checksum="62e5ba947917ced1752dd75aca0af4b4"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="1"
+   name="CT_Manip.h"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2006-11-13T09:48:21.788211Z"
+   checksum="b4a6235fcbc5588e95491f8255079d4b"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="43"
+   name="Mapping.h"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:01:49.640522Z"
+   checksum="b30b2e799fa7fddc44455f32afff1e7a"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="43"
+   name="Colsamm.h"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:01:49.640522Z"
+   checksum="71a151ee253fc3a16b0a2d3b9de715cb"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="43"
+   name="Stencil.C"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:01:49.640522Z"
+   checksum="6ea24670fadce7c33bcaad1a2232b19e"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="43"
+   name="Loops.h"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:01:49.640522Z"
+   checksum="be1e66f682714f1eb480de4e3d8c97e9"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="1"
+   name="Tensors.h"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2006-11-13T09:48:21.788211Z"
+   checksum="64cf6962efa4a2418bbec50f8ea4fca1"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="60"
+   name="Polynom.h"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-08T09:28:42.468003Z"
+   checksum="ee7d0049d92473b1edc648a7f0946d54"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="56"
+   name="Integrand_Vector.h"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-08T06:24:15.671347Z"
+   checksum="fd271d61c19fea4013663e67e8119b5e"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="43"
+   name="Stencil.h"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:01:49.640522Z"
+   checksum="2fc2c754809497dc701c97e964816719"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="43"
+   name="Domain.C"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:01:49.640522Z"
+   checksum="133097250b643bcefde29225dd4f5aaf"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="52"
+   name="Domain.h"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-07T07:24:31.822970Z"
+   checksum="707781576827e212ce342252b1f7b234"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="43"
+   name="Gauss_Points.C"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:01:49.640522Z"
+   checksum="adf56a822b364e52928f3d40e8425690"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="52"
+   name="Elements.h"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-07T07:24:31.822970Z"
+   checksum="fa16174fcf5beae3c7aa0492e9c00df6"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="56"
+   name="CT_Manip_ET.C"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-08T06:24:15.671347Z"
+   checksum="9aa493c568eabebe69b1ddde6efeef37"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="43"
+   name="Gauss_Points.h"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:01:49.640522Z"
+   checksum="760ad09ee65b22231ff0b36e1cf25a79"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="56"
+   name="VertexComputations.C"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-08T06:24:15.671347Z"
+   checksum="773ee88774c181597906cdc18b178557"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="1"
+   name="CT_Manip_ET.h"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2006-11-13T09:48:21.788211Z"
+   checksum="4f6102d1de3b70001bee6a93a410f2e4"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="43"
+   name="VertexComputations.h"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:01:49.640522Z"
+   checksum="f6228bf5d581dc9dc4f73d86c39657f9"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="43"
+   name="Stencil_ET.C"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:01:49.640522Z"
+   checksum="b44e84ecdea144f094dbc5863dac3f98"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="1"
+   name="CT_Manip.C"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2006-11-13T09:48:21.788211Z"
+   checksum="439fff8966006852e97a3599b5382d92"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="58"
+   name="BasisFunctions.C"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-08T08:49:17.320334Z"
+   checksum="f32e068cce95675cc6fe6ad27c3a5c73"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="43"
+   name="Mapping.C"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:01:49.640522Z"
+   checksum="0782ecd47c70fe8516a3e3c568c7573a"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="43"
+   name="Loops.C"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:01:49.640522Z"
+   checksum="f97266c1fa55d57050443c0ad957d67b"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="43"
+   name="Integrand_Vector.C"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:01:49.640522Z"
+   checksum="13ef65134437467f39af4e6e28a6afc1"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="58"
+   name="Polynom.C"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-08T08:49:17.320334Z"
+   checksum="e220fa9c90a7f900c9786eb7be738d02"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="2"
+   name="Tensors.C"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2006-11-15T10:59:06.596464Z"
+   checksum="7ffeef15bd32c71c29ae88a8a1d49c8c"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+</wc-entries>

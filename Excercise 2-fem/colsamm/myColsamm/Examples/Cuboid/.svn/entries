@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="46"
+   name=""
+   committed-date="2007-02-05T13:29:02.549085Z"
+   url="svn+ssh://jochen@131.188.67.19/proj/Project_Homes/ExPDE/Colsamm/Examples/Cuboid"
+   last-author="jochen"
+   kind="dir"
+   uuid="ce837dc8-1d22-0410-83d8-ab98f9fecdcb"
+   repos="svn+ssh://jochen@131.188.67.19/proj/Project_Homes/ExPDE"
+   revision="61"/>
+<entry
+   committed-rev="46"
+   name="main.cc"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:29:02.549085Z"
+   checksum="abbc3df982cd9cce424a25224e5c4c55"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="44"
+   name="cuboid.dat"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:06:40.321682Z"
+   checksum="4ce1d6cdc1f82e8534f33f7e97236442"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="46"
+   name="Makefile"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:29:02.549085Z"
+   checksum="5895815558e9ae004d16ad426968346d"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+</wc-entries>

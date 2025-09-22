@@ -1,0 +1,11 @@
+{ "version": "0.2.0", "configurations": [{
+    "name": "Debug mgsolve",
+    "type": "cppdbg",
+    "request": "launch",
+    "program": "${workspaceFolder}/mgsolve",
+    "args": ["5","10"],
+    "cwd": "${workspaceFolder}",
+    "MIMode": "gdb",
+    "miDebuggerPath": "/usr/bin/gdb",
+    "preLaunchTask": "Build mgsolve"
+  }]} 

@@ -1,0 +1,12 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Mathematical Introduction}{1}{}%
+\contentsline {section}{\numberline {2}Goals of Colsamm}{1}{}%
+\contentsline {section}{\numberline {3}A Simple Example}{2}{}%
+\contentsline {section}{\numberline {4}Working with Colsamm}{3}{}%
+\contentsline {subsection}{\numberline {4.1}Predefined Finite Elements}{3}{}%
+\contentsline {subsection}{\numberline {4.2}Integrand Operations}{4}{}%
+\contentsline {subsection}{\numberline {4.3}Passing vertices to Colsamm}{6}{}%
+\contentsline {section}{\numberline {5}User-defined Elements}{7}{}%
+\contentsline {subsection}{\numberline {5.1}Introducing Mappings}{7}{}%
+\contentsline {subsection}{\numberline {5.2}Introducing Elements}{8}{}%
+\contentsline {subsection}{\numberline {5.3}Introducing basis functions}{10}{}%

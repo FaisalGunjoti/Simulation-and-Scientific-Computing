@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="46"
+   name=""
+   committed-date="2007-02-05T13:29:02.549085Z"
+   url="svn+ssh://jochen@131.188.67.19/proj/Project_Homes/ExPDE/Colsamm/Examples/Advanced"
+   last-author="jochen"
+   kind="dir"
+   uuid="ce837dc8-1d22-0410-83d8-ab98f9fecdcb"
+   repos="svn+ssh://jochen@131.188.67.19/proj/Project_Homes/ExPDE"
+   revision="61"/>
+<entry
+   committed-rev="44"
+   name="second_main.cc"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:06:40.321682Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="46"
+   name="main.cc"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:29:02.549085Z"
+   checksum="8576a8c79ad8d4d9b495566348d93fa6"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="44"
+   name="quadrangle.dat"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:06:40.321682Z"
+   checksum="e3ae1f9a212c692ba7197dc896813abf"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="44"
+   name="cuboid.dat"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:06:40.321682Z"
+   checksum="527dfcb642f5ab45a54dc2027259ba14"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="46"
+   name="Makefile"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:29:02.549085Z"
+   checksum="3eae7c4dacdaae22cf2ca09496ee46f2"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+</wc-entries>

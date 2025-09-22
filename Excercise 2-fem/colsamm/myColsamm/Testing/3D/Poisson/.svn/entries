@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2006-11-15T10:59:06.596464Z"
+   url="svn+ssh://jochen@131.188.67.19/proj/Project_Homes/ExPDE/Colsamm/Testing/3D/Poisson"
+   last-author="jochen"
+   kind="dir"
+   uuid="ce837dc8-1d22-0410-83d8-ab98f9fecdcb"
+   repos="svn+ssh://jochen@131.188.67.19/proj/Project_Homes/ExPDE"
+   revision="61"/>
+<entry
+   committed-rev="1"
+   name="CuboidHelmholtz.cc"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2006-11-13T09:48:21.788211Z"
+   checksum="83e91e6bb0489fb04deb2535489be0a3"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="1"
+   name="TetrahedronLaplacianData.dat"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2006-11-13T09:48:21.788211Z"
+   checksum="72308e43c09160efe7d5d0d4e613d8ef"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="1"
+   name="TetrahedronHelmholtzData.dat"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2006-11-13T09:48:21.788211Z"
+   checksum="dd6360a9a1ad1b7a8d5d1602b9c8849c"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="1"
+   name="TetrahedronLaplacian.cc"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2006-11-13T09:48:21.788211Z"
+   checksum="73728763cc78e39cab430568e3a6045d"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="1"
+   name="TetrahedronHelmholtz.cc"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2006-11-13T09:48:21.788211Z"
+   checksum="25ecd34d44416e3a547569775ce0555a"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="2"
+   name="CuboidLaplacianData.dat"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2006-11-15T10:59:06.596464Z"
+   checksum="1ead06bb1ae7ceb8ad40f17d5d61eae0"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="1"
+   name="CuboidHelmholtzData.dat"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2006-11-13T09:48:21.788211Z"
+   checksum="58d2cf1d32992fe8fd8c9fbad1f2d08a"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="2"
+   name="Makefile"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2006-11-15T10:59:06.596464Z"
+   checksum="281dfec493540b8a83722f20c36de2e7"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="1"
+   name="CuboidLaplacian.cc"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2006-11-13T09:48:21.788211Z"
+   checksum="6394f470306ffb7a31640a1caca53c69"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+</wc-entries>

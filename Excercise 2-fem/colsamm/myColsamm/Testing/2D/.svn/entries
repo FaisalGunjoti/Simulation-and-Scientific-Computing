@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-11-13T09:48:21.788211Z"
+   url="svn+ssh://jochen@131.188.67.19/proj/Project_Homes/ExPDE/Colsamm/Testing/2D"
+   last-author="jochen"
+   kind="dir"
+   uuid="ce837dc8-1d22-0410-83d8-ab98f9fecdcb"
+   repos="svn+ssh://jochen@131.188.67.19/proj/Project_Homes/ExPDE"
+   revision="61"/>
+</wc-entries>

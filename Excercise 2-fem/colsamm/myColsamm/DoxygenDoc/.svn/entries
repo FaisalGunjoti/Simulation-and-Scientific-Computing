@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-11-13T09:48:21.788211Z"
+   url="svn+ssh://jochen@131.188.67.19/proj/Project_Homes/ExPDE/Colsamm/DoxygenDoc"
+   last-author="jochen"
+   kind="dir"
+   uuid="ce837dc8-1d22-0410-83d8-ab98f9fecdcb"
+   repos="svn+ssh://jochen@131.188.67.19/proj/Project_Homes/ExPDE"
+   revision="61"/>
+<entry
+   committed-rev="1"
+   name="config"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2006-11-13T09:48:21.788211Z"
+   checksum="57ee8f5d3f772ab6253b5dfb6fc13018"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="1"
+   name="Makefile"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2006-11-13T09:48:21.788211Z"
+   checksum="db041d86422d7e7c08b33c1dc376a5a7"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+</wc-entries>

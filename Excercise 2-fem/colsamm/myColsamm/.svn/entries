@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="60"
+   name=""
+   committed-date="2007-02-08T09:28:42.468003Z"
+   url="svn+ssh://jochen@131.188.67.19/proj/Project_Homes/ExPDE/Colsamm"
+   last-author="jochen"
+   kind="dir"
+   uuid="ce837dc8-1d22-0410-83d8-ab98f9fecdcb"
+   repos="svn+ssh://jochen@131.188.67.19/proj/Project_Homes/ExPDE"
+   revision="61"/>
+<entry
+   name="HOWTO"
+   kind="dir"/>
+<entry
+   name="Source"
+   kind="dir"/>
+<entry
+   name="DoxygenDoc"
+   kind="dir"/>
+<entry
+   name="Testing"
+   kind="dir"/>
+<entry
+   name="Examples"
+   kind="dir"/>
+</wc-entries>

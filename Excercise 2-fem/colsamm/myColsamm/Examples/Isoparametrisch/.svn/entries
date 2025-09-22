@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="46"
+   name=""
+   committed-date="2007-02-05T13:29:02.549085Z"
+   url="svn+ssh://jochen@131.188.67.19/proj/Project_Homes/ExPDE/Colsamm/Examples/Isoparametrisch"
+   last-author="jochen"
+   kind="dir"
+   uuid="ce837dc8-1d22-0410-83d8-ab98f9fecdcb"
+   repos="svn+ssh://jochen@131.188.67.19/proj/Project_Homes/ExPDE"
+   revision="61"/>
+<entry
+   committed-rev="46"
+   name="main.cc"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:29:02.549085Z"
+   checksum="5f9cf6ebe1747458ab9cebec5113c5d4"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="44"
+   name="triangle.dat"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:06:40.321682Z"
+   checksum="3a0e2df80d302c1211b2ff0ac9d16a4d"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+<entry
+   committed-rev="46"
+   name="Makefile"
+   text-time="2007-02-09T12:24:05.000000Z"
+   committed-date="2007-02-05T13:29:02.549085Z"
+   checksum="0d2262cfd03d0d416bc0a3d9234e1868"
+   last-author="jochen"
+   kind="file"
+   prop-time="2007-02-09T12:24:05.000000Z"/>
+</wc-entries>

@@ -1,0 +1,10 @@
+sizex       800
+sizey       160
+timesteps   150000
+uin         0.04
+Re          500
+spherex     200
+spherey     80
+diameter    40
+vtk_file    Re500_highres_
+vtk_step    500

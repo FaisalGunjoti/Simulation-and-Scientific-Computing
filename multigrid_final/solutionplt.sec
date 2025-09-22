@@ -1,0 +1,6 @@
+set pm3d at s depthorder hidden3d
+set view 40,70, 1,1
+set term wxt size 1200,800 position 0,0
+set key below
+unset colorbox
+splot 'solution.txt' u 1:2:3 w l lc rgb "#d0000000"
